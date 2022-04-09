@@ -1,9 +1,9 @@
-# faggots | ctf
-ctf where Russians are banned
+# cunts | ctf
+ctf orgs who ban Russians
 
 <pre>
 Array
 (
-    [JerseyCTF] => <a href="//sunnycapt.github.io/_notes/faggots/proofs/JerseyCTF.html">./ban-by-JerseyCTF-proof</a>
+    [JerseyCTF] => <a href="//sunnycapt.github.io/_notes/cunts/proofs/JerseyCTF.html">./ban-by-JerseyCTF-proof</a>
 )
 </pre>

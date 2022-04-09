@@ -1,4 +1,4 @@
-# faggots
+# cunts
 events where Russians are banned
 
 <pre>

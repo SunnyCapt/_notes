@@ -1,5 +1,5 @@
 # cunts | ctf
-ctf orgs who ban Russians
+ctf orgs which baned russians
 
 <pre>
 Array

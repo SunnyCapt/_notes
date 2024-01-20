@@ -1,27 +1,27 @@
 ## Перечень дополнительных материалов для самостоятельного изучения java
 
 
-#### При желании дополнить - пишите на почту sunny.capt@tuta.io или создавайте issue в [репозитории на гитхабе](https://github.com/SunnyCapt/_notes/)
+#### При желании дополнить - пишите на почту [sunny.capt@tuta.io](mailto:sunny.capt@tuta.io) или создавайте issue в [репозитории на гитхабе](https://github.com/SunnyCapt/_notes/)
 
-* __Текстовый курс по темам java, от синтаксиса до основ: [w3schools](https://www.w3schools.com/java/default.asp)__ (EN)__
+* __Текстовый курс по темам java, от синтаксиса до основ: [w3schools](https://www.w3schools.com/java/default.asp) (EN)__
 
   Есть обилие примеров и возможность сразу запустить самописный пример кода
   
-* __Задачи по темам на том же сайте: [w3schools](https://www.w3schools.com/java/exercise.asp)__ (EN)
+* __Задачи по темам на том же сайте: [w3schools](https://www.w3schools.com/java/exercise.asp) (EN)__
   
-* __Небольшой текстовый курс для начинающих: [codecademy](https://www.codecademy.com/learn/java-introduction)__ (EN)
+* __Небольшой текстовый курс для начинающих: [codecademy](https://www.codecademy.com/learn/java-introduction) (EN)__
   
-* __Чуть более расширенная версия предыдущего пункта с основами: [codecademy](https://www.codecademy.com/learn/learn-java)__ (EN)
+* __Чуть более расширенная версия предыдущего пункта с основами: [codecademy](https://www.codecademy.com/learn/learn-java) (EN)__
 
-* __Полный путь изучения java: [roadmap](https://roadmap.sh/java)__ (EN)
+* __Полный путь изучения java: [roadmap](https://roadmap.sh/java) (EN)__
 
   В графе показаны темы которые постепенно нужно изучать, при клике на карточку темы вам доступен перечень материалов
 
-* __Бесплатный курс по java с задачами и видео: [stepik](https://stepik.org/course/180585/)__ (RU)
+* __Бесплатный курс по java с задачами и видео: [stepik](https://stepik.org/course/180585/) (RU)__
 	
   Если хотите порешать задачи и посмотреть лекции на интересующие темы
 
-* __Бесплатный курс по java с задачами и видео: [stepik](https://stepik.org/course/187) (RU)
+* __Бесплатный курс по java с задачами и видео: [stepik](https://stepik.org/course/187) (RU)__
 
   Требуются некоторые базовые знания по программированию
 

@@ -5,6 +5,7 @@ some notes
 Array
 (
     [web_sites] => <a href="//lambda.am/blog/websites.html">./websites</a>,
+    [instant-view] => <a href="//lambda.am/blog/instant-view.html">./instant-view</a>,
     [goaccess_cmd] => <a href="//lambda.am/blog/goaccess-cmd.html">./goaccess-cmd</a>,
     [escape_plan] => <a href="//lambda.am/blog/transfer-to-itmo.html">./transfer-to-itmo</a>,
     [flipperzero-goodies] => <a target="_blank" href="//wetox-team.github.io/flipperzero-goodies/intercom-keys/">./intercom-keys</a>,

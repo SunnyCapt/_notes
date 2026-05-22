@@ -1,7 +1,7 @@
 # Instant View when blocked by an old template
 
 Problem: an old approved IV template for your domain (possibly registered by
-someone unrelated to you) keeps overriding Medium's fallback. It stays
+someone unrelated to you) keeps overriding [Medium's fallback](https://nikstar.me/post/instant-view/). It stays
 opaque, so a site redesign silently breaks Instant View and there's no way
 to inspect what the legacy rules expect.
 
